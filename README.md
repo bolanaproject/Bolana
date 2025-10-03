@@ -8,7 +8,7 @@
   </p>
 
   <p>
-    <a href="https://github.com/bolana/bolana/actions"><img alt="Build Status" src="https://github.com/bolana/bolana/actions/workflows/tests.yaml/badge.svg" /></a>
+    <a href="https://github.com/bolana/bolana/actions"><img alt="Build Status" src="https://cdn.discordapp.com/attachments/1415994670793756793/1423795254091452626/ChatGPT_Image_Oct_3_2025_11_08_11_PM.png?ex=68e19c29&is=68e04aa9&hm=31fb9b21d449407463d6bea9ed73085a758847475c9afd9be861b2dd8d754bd0&" /></a>
     <a href="https://bolana-lang.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
     <a href="https://discord.gg/bolana"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
     <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/bolana/bolana?color=blueviolet" /></a>
@@ -166,5 +166,6 @@ Bolana represents the future that Anatoly envisioned: a world where blockchain n
     <img src="https://contrib.rocks/image?repo=bolana/bolana" width="100%" />
   </a>
 </div>
+
 
 
